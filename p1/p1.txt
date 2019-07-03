@@ -1,0 +1,4 @@
+1. Verificar se o nome é palindromo com pilhas
+2. verificar se o os {}()[] com pilha
+3. Função de ver quantos zeros possui em um numero que ele entrar apos fazer o fatorial desse numero.
+Resto questão teorica tratadas em sala de aula.

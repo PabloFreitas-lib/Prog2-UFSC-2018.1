@@ -1,0 +1,4 @@
+1.Lista concatena e destroi possuindo acesso a privado sem as funções básicas.
+2.HeapMax (ou Heapmin) usar um for com 2i+1/2 e 2i+2/2.
+3.Imprimir uma arvore em ordem decrescente ou crescente.
+Resto teorias tratadas em sala de aula. (40%)
